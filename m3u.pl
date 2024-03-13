@@ -1,4 +1,8 @@
-#!/usr/bin/perl
+https://filmezando.me/aquaman-2-o-reino-perdido/
+https://filmezando.me/beekeeper-rede-de-vinganca/
+https://filmezando.me/napoleao/
+https://filmezando.me/feriado-sangrento/
+https://filmezando.me/intruso/!/usr/bin/perl
 # This script parses M3U into tab-separated values (tsv-file)
 # Only supports entries with EXTINF tag
 
