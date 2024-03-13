@@ -1,4 +1,8 @@
-iptv-tools is a collection of perl and bash scripts for IPTV.
+.https://filmezando.me/aquaman-2-o-reino-perdido/
+https://filmezando.me/beekeeper-rede-de-vinganca/
+https://filmezando.me/napoleao/
+https://filmezando.me/feriado-sangrento/
+https://filmezando.me/intruso/
 
 * XMLTV parser (parser-xmltv.pl)
 Parses xmltv and puts in sqlite database for efficient retrieval of current TV programme.
